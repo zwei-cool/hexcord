@@ -1,23 +1,23 @@
 /** Roboto: regular, bold, italic, bold+italic **/
-@import url('../../../../../node_modules/fonts/roboto/700.css');
-@import url('../../../../../node_modules/fonts/roboto/700-italic.css');
-@import url('../../../../../node_modules/fonts/roboto/400.css');
-@import url('../../../../../node_modules/fonts/roboto/400-italic.css');
+@import url('../../../../../node/fonts/roboto/700.css');
+@import url('../../../../../node/fonts/roboto/700-italic.css');
+@import url('../../../../../node/fonts/roboto/400.css');
+@import url('../../../../../node/fonts/roboto/400-italic.css');
 
 /** Ubuntu: regular, bold, italic, bold+italic **/
-@import url('../../../../../node_modules/fonts/ubuntu/700.css');
-@import url('../../../../../node_modules/fonts/ubuntu/700-italic.css');
-@import url('../../../../../node_modules/fonts/ubuntu/400.css');
-@import url('../../../../../node_modules/fonts/ubuntu/400-italic.css');
+@import url('../../../../../node/fonts/ubuntu/700.css');
+@import url('../../../../../node/fonts/ubuntu/700-italic.css');
+@import url('../../../../../node/fonts/ubuntu/400.css');
+@import url('../../../../../node/fonts/ubuntu/400-italic.css');
 
 /** Source Code Pro: regular, bold, italic, bold+italic **/
-@import url('../../../../../node_modules/fonts/source-code-pro/700.css');
-@import url('../../../../../node_modules/fonts/source-code-pro/700-italic.css');
-@import url('../../../../../node_modules/fonts/source-code-pro/400.css');
-@import url('../../../../../node_modules/fonts/source-code-pro/400-italic.css');
+@import url('../../../../../node/fonts/source-code-pro/700.css');
+@import url('../../../../../node/fonts/source-code-pro/700-italic.css');
+@import url('../../../../../node/fonts/source-code-pro/400.css');
+@import url('../../../../../node/fonts/source-code-pro/400-italic.css');
 
 /** Twemoji: **/
-@import url('../../../../../node_modules/twemoji-colr-font/twemoji.css');
+@import url('../../../../../node/twemoji-colr-font/twemoji.css');
 
 :root {
     --font-primary: 'Roboto',Arial,sans-serif, Twemoji;
